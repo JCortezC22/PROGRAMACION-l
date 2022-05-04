@@ -1,0 +1,13 @@
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EjercicioEntityFamework.exe.config
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EjercicioEntityFamework.exe
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EjercicioEntityFamework.pdb
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EntityFramework.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EntityFramework.xml
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.csproj.AssemblyReference.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.csproj.SuggestedBindingRedirects.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.csproj.CoreCompileInputs.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.csproj.CopyComplete
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.exe
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\EjercicioEntityFamework\EjercicioEntityFamework\obj\Debug\EjercicioEntityFamework.pdb
